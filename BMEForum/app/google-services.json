@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049274600388",
+    "project_id": "bmeforumj7yrf2",
+    "storage_bucket": "bmeforumj7yrf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049274600388:android:ec3d35fb75a0eae8c6b291",
+        "android_client_info": {
+          "package_name": "hu.bme.aut.android.bmeforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049274600388-8vl8v5io8tl9l3euhf8fo83j6serd324.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXH4NYdaeeq_wucG2JJ5fHwnVj7mG9lZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049274600388-8vl8v5io8tl9l3euhf8fo83j6serd324.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
